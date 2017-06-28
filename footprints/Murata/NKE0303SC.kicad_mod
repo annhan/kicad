@@ -1,4 +1,4 @@
-(module NKE0303SC (layer F.Cu) (tedit 57836B1A)
+(module NKE0303SC (layer F.Cu) (tedit 58D3B46D)
   (solder_mask_margin 0.05)
   (attr smd)
   (fp_text reference REF** (at -2 -5.75) (layer F.SilkS)
@@ -29,4 +29,9 @@
   (pad 1 thru_hole circle (at -3.81 0) (size 1.2 1.2) (drill 0.6) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 1.27 0) (size 1.2 1.2) (drill 0.6) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 3.81 0) (size 1.2 1.2) (drill 0.6) (layers *.Cu *.Mask))
+  (model C:/Cad/Footprint/Murata/3D/NKC0303SC.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
