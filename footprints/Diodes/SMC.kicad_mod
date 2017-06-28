@@ -1,4 +1,4 @@
-(module SMC (layer F.Cu) (tedit 571B7BB0)
+(module SMC (layer F.Cu) (tedit 591A9FF9)
   (descr "SMC diode ")
   (tags "SMC diode")
   (solder_mask_margin 0.05)
@@ -34,4 +34,9 @@
   (fp_line (start -3.7 3.2) (end -3.7 -3.2) (layer F.CrtYd) (width 0.05))
   (pad A smd rect (at 3.325 0) (size 1.54 3.14) (layers F.Cu F.Paste F.Mask))
   (pad K smd rect (at -3.325 0) (size 1.54 3.14) (layers F.Cu F.Paste F.Mask))
+  (model "C:/Cad/Footprint/Diodes/3D/SMC DO214AB DIOM8261X24.step"
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
