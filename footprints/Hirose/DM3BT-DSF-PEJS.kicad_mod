@@ -1,4 +1,4 @@
-(module DM3BT-DSF-PEJS (layer F.Cu) (tedit 57218ADC)
+(module DM3BT-DSF-PEJS (layer F.Cu) (tedit 58B91F76)
   (descr "Micro SD")
   (tags "Micro SD")
   (solder_mask_margin 0.1)
@@ -117,4 +117,9 @@
   (pad 11 smd rect (at -6.25 16) (size 1 0.5) (layers F.Cu F.Paste F.Mask))
   (pad A smd rect (at 6.3 10.7) (size 1.2 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 11 smd rect (at -6.31 15.82 45) (size 0.4 0.4) (layers F.Cu F.Paste F.Mask))
+  (model C:/Cad/Footprint/Hirose/3D/DM3BT-DSF-PEJS.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

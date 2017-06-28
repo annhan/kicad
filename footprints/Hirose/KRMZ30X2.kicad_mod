@@ -1,4 +1,4 @@
-(module KRMZ30X2 (layer F.Cu) (tedit 576E506A)
+(module KRMZ30X2 (layer F.Cu) (tedit 58C2C7BC)
   (descr "Hirosen 0.5mm pitch")
   (solder_mask_margin 0.05)
   (solder_paste_margin -0.03)
@@ -212,4 +212,9 @@
   (pad "" smd rect (at 23.95 0) (size 1.6 3.1) (layers F.Cu F.Paste F.Mask))
   (pad "" np_thru_hole circle (at -22.2 0) (size 1.2 1.2) (drill 1.2) (layers *.Mask F.Cu))
   (pad "" np_thru_hole circle (at 22.2 0) (size 1.2 1.2) (drill 1.2) (layers *.Mask F.Cu))
+  (model C:/Cad/Footprint/Hirose/3D/KRMZ30X2.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
