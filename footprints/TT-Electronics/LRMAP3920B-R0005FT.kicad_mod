@@ -1,4 +1,4 @@
-(module LRMAP3920B-R0005FT (layer F.Cu) (tedit 57176712)
+(module LRMAP3920B-R0005FT (layer F.Cu) (tedit 58BEB15C)
   (descr "8S2 – 8-lead EIAJ SOIC")
   (tags "EIAJ SOIC 8")
   (solder_mask_margin 0.05)
@@ -32,4 +32,9 @@
   (pad 1 smd rect (at -4.15 -1.775) (size 2.7 2.65) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -4.15 0) (size 2.7 0.4) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -4.15 1.775) (size 2.7 2.65) (layers F.Cu F.Paste F.Mask))
+  (model "C:/Cad/Footprint/TT-Electronics/3D/User Library-LRMAP3920.step"
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

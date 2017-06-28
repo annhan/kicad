@@ -1,4 +1,4 @@
-(module 2013978-2 (layer F.Cu) (tedit 57729FD0)
+(module 2013978-2 (layer F.Cu) (tedit 58B84656)
   (descr "HDMI Type C Mini")
   (tags "HDMI Type C Mini")
   (solder_mask_margin 0.05)
@@ -61,4 +61,9 @@
   (pad 19 smd rect (at -3.515 -7.475) (size 0.22 1.25) (layers F.Cu F.Paste F.Mask))
   (pad 20 thru_hole oval (at -5.425 -7.05) (size 1.45 2.6) (drill oval 0.45 1.6) (layers *.Cu *.Mask))
   (pad 22 thru_hole oval (at 5.425 -7.05) (size 1.45 2.6) (drill oval 0.45 1.6) (layers *.Cu *.Mask))
+  (model C:/Cad/Footprint/Tyco/3D/C-2013978-2.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
