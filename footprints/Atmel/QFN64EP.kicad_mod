@@ -1,4 +1,4 @@
-(module QFN64EP (layer F.Cu) (tedit 578B6859)
+(module QFN64EP (layer F.Cu) (tedit 58BEBAC2)
   (descr QFN24)
   (tags "QFN 0.5")
   (solder_mask_margin 0.05)
@@ -102,4 +102,9 @@
   (pad 30 smd oval (at 2.75 4.5) (size 0.3 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 31 smd oval (at 3.25 4.5) (size 0.3 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 32 smd oval (at 3.75 4.5) (size 0.3 0.8) (layers F.Cu F.Paste F.Mask))
+  (model C:/Cad/Footprint/Atmel/3D/QFN64EP.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

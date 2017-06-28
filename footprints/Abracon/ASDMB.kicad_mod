@@ -1,4 +1,4 @@
-(module ASDMB (layer F.Cu) (tedit 56ED320E)
+(module ASDMB (layer F.Cu) (tedit 590C157D)
   (descr "Abracon ASDMB 2.5x2mm")
   (tags "Abracon ASDMB 2.5x2mm")
   (solder_mask_margin 0.05)
@@ -31,4 +31,9 @@
   (pad 2 smd rect (at 0.825 0.775) (size 0.65 0.85) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at -0.825 -0.775) (size 0.65 0.85) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 0.825 -0.775) (size 0.65 0.85) (layers F.Cu F.Paste F.Mask))
+  (model C:/Cad/Footprint/Abracon/3D/ASDMB.STEP
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

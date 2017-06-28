@@ -1,4 +1,4 @@
-(module KC2016K (layer F.Cu) (tedit 56EA693F)
+(module KC2016K (layer F.Cu) (tedit 590B455B)
   (descr "AVX KC2016K")
   (tags "AVX KC2016K")
   (solder_mask_margin 0.05)
@@ -37,4 +37,9 @@
   (pad 2 smd rect (at 0.9 0.6 180) (size 0.6 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at -0.9 -0.6 180) (size 0.6 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 0.9 -0.6 180) (size 0.6 0.8) (layers F.Cu F.Paste F.Mask))
+  (model C:/Cad/Footprint/AVX/3D/KC2016K.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

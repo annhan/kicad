@@ -1,6 +1,5 @@
-(module 961210-6404-AR (layer F.Cu) (tedit 57864062)
+(module 961210-6404-AR (layer F.Cu) (tedit 58C10D8E)
   (descr "2x5 \"0.1 header")
-  (attr smd)
   (fp_text reference REF** (at -1.27 -3.81) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -39,4 +38,9 @@
   (pad 8 thru_hole circle (at 2.54 -1.27) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at 5.08 1.27) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 10 thru_hole circle (at 5.08 -1.27) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
+  (model C:/Cad/Footprint/3M/3D/961210-6404-XX.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

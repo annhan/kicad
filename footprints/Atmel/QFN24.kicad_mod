@@ -1,4 +1,4 @@
-(module QFN24 (layer F.Cu) (tedit 57861141)
+(module QFN24 (layer F.Cu) (tedit 58C12D1B)
   (descr QFN24)
   (tags "QFN 0.5")
   (solder_mask_margin 0.05)
@@ -54,4 +54,9 @@
   (pad 10 smd oval (at 0.25 2) (size 0.3 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 11 smd oval (at 0.75 2) (size 0.3 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 12 smd oval (at 1.25 2) (size 0.3 0.8) (layers F.Cu F.Paste F.Mask))
+  (model "C:/Cad/Footprint/Atmel/3D/User Library-QFN-24 - EQ.step"
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
