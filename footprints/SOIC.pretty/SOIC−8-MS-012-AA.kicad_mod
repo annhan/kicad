@@ -1,4 +1,4 @@
-(module SOIC−8-MS-012-AA (layer F.Cu) (tedit 5717679B)
+(module SOIC−8-MS-012-AA (layer F.Cu) (tedit 58C014B8)
   (descr "8S2 – 8-lead EIAJ SOIC")
   (tags "EIAJ SOIC 8")
   (solder_mask_margin 0.05)
@@ -39,4 +39,9 @@
   (pad 2 smd rect (at -0.635 2.6) (size 0.6 2.2) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 0.635 2.6) (size 0.6 2.2) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 1.905 2.6) (size 0.6 2.2) (layers F.Cu F.Paste F.Mask))
+  (model "C:/Cad/Footprint/SOIC.pretty/3D/User Library-SOIC8_JEDEC_MS-012AA.step"
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
