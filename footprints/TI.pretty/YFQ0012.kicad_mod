@@ -1,4 +1,4 @@
-(module YFQ (layer F.Cu) (tedit 5965D73A)
+(module YFQ0012 (layer F.Cu) (tedit 5965D73A)
   (descr "Texas Instruments Package YFQ0012")
   (tags "YFQ  bga  3x4")
   (solder_mask_margin 0.042)
