@@ -1,10 +1,10 @@
-(module DPY (layer F.Cu) (tedit 56EA88C2)
+(module DPY (layer F.Cu) (tedit 5965D49D)
   (descr "Texas Instruments Package Specification DPY")
   (tags "DPY 2pin")
   (solder_mask_margin 0.05)
   (attr smd)
   (fp_text reference REF** (at 0 -0.7) (layer F.SilkS)
-    (effects (font (size 0.5 0.5) (thickness 0.05)))
+    (effects (font (size 0.5 0.5) (thickness 0.1)))
   )
   (fp_text value DPY (at 0 0) (layer F.Fab) hide
     (effects (font (size 0.5 0.5) (thickness 0.05)))

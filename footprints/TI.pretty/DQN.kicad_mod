@@ -1,4 +1,4 @@
-(module DQN (layer F.Cu) (tedit 58B92CA9)
+(module DQN (layer F.Cu) (tedit 5A040138)
   (descr "Texas Instruments Package DQN")
   (tags "SO8 0.65mm + EP")
   (solder_mask_margin 0.07)
@@ -45,7 +45,7 @@
     (solder_mask_margin 0.001) (solder_paste_margin -0.001))
   (pad 4 smd trapezoid (at 0.43 -0.32 180) (size 0.21 0.27) (rect_delta 0 0.2 ) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.001) (solder_paste_margin -0.001))
-  (model C:/Cad/Footprint/TI.pretty/3D/Fusion.step
+  (model C:/Cad/Footprint/TI.pretty/3D/DQN004.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
