@@ -1,4 +1,4 @@
-(module ABS05 (layer F.Cu) (tedit 58C11134)
+(module ABS05 (layer F.Cu) (tedit 5A7AC9E6)
   (descr "ABS05 0805")
   (tags "ABS05 0805")
   (solder_mask_margin 0.05)
@@ -20,8 +20,6 @@
   (fp_line (start -0.9 0.7) (end 0.9 0.7) (layer F.CrtYd) (width 0.05))
   (fp_line (start -0.9 -0.7) (end -0.9 0.7) (layer F.CrtYd) (width 0.05))
   (fp_line (start 0.9 -0.7) (end 0.9 0.7) (layer F.CrtYd) (width 0.05))
-  (fp_line (start 0.7 -0.7) (end -0.6 -0.7) (layer F.SilkS) (width 0.15))
-  (fp_line (start -0.6 0.7) (end 0.7 0.7) (layer F.SilkS) (width 0.15))
   (pad 1 smd rect (at -0.55 0) (size 0.5 1) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0.55 0) (size 0.5 1) (layers F.Cu F.Paste F.Mask))
   (model C:/Cad/Footprint/Abracon/3D/ABS05.STEP
