@@ -1,4 +1,4 @@
-(module SOT23-3 (layer F.Cu) (tedit 5A6086A4)
+(module SOT:DBZ (layer F.Cu) (tedit 5A6086A4)
   (tags SOT23)
   (solder_mask_margin 0.05)
   (attr smd)
