@@ -1,4 +1,4 @@
-(module 32QFN-3304-5x5B (layer F.Cu) (tedit 56EA8303)
+(module 32QFN-3304-5x5B (layer F.Cu) (tedit 590B3A2B)
   (descr "QFN32-EP Microchip")
   (tags QFN32-EP)
   (solder_mask_margin 0.05)
@@ -194,4 +194,9 @@
     (solder_paste_margin_ratio -0.2))
   (pad 33 smd rect (at -0.825 -0.825) (size 1.65 1.65) (layers F.Cu F.Paste F.Mask)
     (solder_paste_margin_ratio -0.2))
+  (model "C:/Cad/Footprint/Microchip/3D/User Library-QFN32-1.step"
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
