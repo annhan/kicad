@@ -1,4 +1,4 @@
-(module BM10B-SRSS-TB (layer F.Cu) (tedit 59195B42)
+(module BM10B-SRSS-TB (layer F.Cu) (tedit 598AD130)
   (solder_mask_margin 0.05)
   (attr smd)
   (fp_text reference REF** (at 0 -3.4) (layer F.SilkS)

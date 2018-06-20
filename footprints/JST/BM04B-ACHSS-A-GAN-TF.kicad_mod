@@ -29,7 +29,7 @@
   (pad 6 smd rect (at -2.975 -3.625) (size 0.75 1.1) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 2.975 -3.625) (size 0.75 1.1) (layers F.Cu F.Paste F.Mask))
   (model C:/Cad/Footprint/JST/3D/BM04B-ACHSS-A-GAN.step
-    (at (xyz 0 0 0.03149606299212599))
+    (offset (xyz 0 0 0.7999999879852057))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
