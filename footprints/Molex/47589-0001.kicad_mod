@@ -1,4 +1,4 @@
-(module 47589-0001 (layer F.Cu) (tedit 574D5CD8)
+(module 47589-0001 (layer F.Cu) (tedit 58B850C7)
   (descr "USB 2.0 micro AB")
   (solder_mask_margin 0.05)
   (attr smd)
@@ -56,4 +56,9 @@
   (pad 6 smd rect (at -3.4 0.8) (size 1.6 0.3) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at 3.4 -0.8) (size 1.6 0.3) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at 3.4 0.8) (size 1.6 0.3) (layers F.Cu F.Paste F.Mask))
+  (model C:/Cad/Footprint/Molex/3D/475890001.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
