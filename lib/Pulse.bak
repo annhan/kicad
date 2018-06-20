@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF HM2101NL TR 0 40 Y N 1 F N
 F0 "TR" 100 -100 60 H V C CNN
 F1 "HM2101NL" 200 -200 60 H V C CNN
-F2 "Pulse:HM2101NL-10" 0 -200 60 H I C CNN
+F2 "Pulse:HM2101NL" 0 -200 60 H I C CNN
 F3 "https://productfinder.pulseeng.com/productSearch/HM2101NL" 100 -100 30 H I C CNN
 F4 "Pulse Electronics" 50 -100 60 H I C CNN "Manufacturer"
 DRAW
