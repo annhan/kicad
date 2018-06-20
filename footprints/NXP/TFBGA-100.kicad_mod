@@ -220,7 +220,7 @@
   (pad A1 smd circle (at -3.6 -3.6) (size 0.33 0.33) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.075) (solder_paste_margin 0.035))
   (model "C:/Cad/Footprint/NXP/3D/User Library-TFBGA100.step"
-    (at (xyz 0 0 0.007874015748031498))
+    (offset (xyz 0 0 0.1999999969963014))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))
   )
