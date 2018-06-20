@@ -22,7 +22,7 @@
   (pad A thru_hole circle (at 4.7498 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (pad C thru_hole circle (at -4.7625 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (model "C:/Cad/Footprint/Diodes/3D/User Library-DO-41_375mil.STEP"
-    (at (xyz 0.1875 0 0))
+    (offset (xyz 4.762499928474426 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))
   )

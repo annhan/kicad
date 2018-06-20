@@ -1,4 +1,4 @@
-(module DO-214AA (layer F.Cu) (tedit 56ED6AFE)
+(module DO-214AA (layer F.Cu) (tedit 5ABC924E)
   (descr "Jedec DO-214AA diode package. Designed according to Vishay datasheet.")
   (tags "DO-214AA diode")
   (attr smd)
@@ -30,4 +30,9 @@
   (fp_line (start -3 2.25) (end -3 -2.25) (layer F.CrtYd) (width 0.05))
   (pad A smd rect (at 2 0) (size 1.8 2.2) (layers F.Cu F.Paste F.Mask))
   (pad C smd rect (at -2 0) (size 1.8 2.2) (layers F.Cu F.Paste F.Mask))
+  (model "C:/Cad/Footprint/Diodes/3D/User Library-DO-214AA(SMB).step"
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
