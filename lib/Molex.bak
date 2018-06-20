@@ -514,7 +514,7 @@ DEF 95501-6449 J 0 40 Y Y 1 F N
 F0 "J" 200 600 60 H V C CNN
 F1 "95501-6449" 200 -100 60 H V C CNN
 F2 "Molex:95501-6449" 600 200 60 V I C CNN
-F3 "http://www.molex.com/pdm_docs/sd/955016449_sd.pdf" 0 25 60 H I C CNN
+F3 "http://www.molex.com/pdm_docs/sd/955016449_sd.pdf" 0 25 60 H V C CNN
 F4 "Molex" 500 300 60 V I C CNN "Manufacturer"
 DRAW
 S 0 0 400 500 0 1 0 N
